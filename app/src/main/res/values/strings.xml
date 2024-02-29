@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">text to Bin Oct Hex</string>
+    <string name="label1_eng">Text to transform:</string>
+    <string name="label2_eng">Transform to:</string>
+    <string name="label3_eng">Result:</string>
+    <string name="rb1">BIN</string>
+    <string name="rb2">OCT</string>
+    <string name="rb3">HEX</string>
+    <string name="editTextText">Text</string>
+    <string name="number">Number</string>
+    <string name="button">Copy to dashboard</string>
+
+</resources>
